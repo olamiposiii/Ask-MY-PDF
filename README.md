@@ -38,7 +38,7 @@ You need Python 3.8 or higher installed on your machine to run "Ask my PDF". Add
 Clone the repository and install the necessary Python packages:
 
 ```bash
-git clone https://github.com/prayagpadwal/ask-my-pdf.git
+git clone https://github.com/olamiposiii/ask-my-pdf.git
 cd ask-my-pdf
 pip install -r requirements.txt
 ```
